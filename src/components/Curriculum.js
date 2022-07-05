@@ -38,7 +38,7 @@ export const Curriculum = () => {
         <li>Team Work</li>
         <li>Curious</li>
         <li>Ambitious</li>
-        <li>Entusiast</li>
+        <li>Enthusiastic</li>
         <li>Ambitious</li>
       </ul>
     </div>
